@@ -29,6 +29,8 @@ void converting() {
 			printf("Converted number is %f\n", doubleNumber);
 		}
 	} while (strcmp(doubleString, "q") != 0);
+
+	// End of Program
 	printf("*** End of Converting Strings to double Demo ***\n\n");
 
 }
